@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '/app_data.dart';
-import 'package:traveling_app/models/trip.dart';
 
 class TripDetailsScreen extends StatelessWidget {
   final String tripId;
